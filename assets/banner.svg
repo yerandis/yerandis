@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="Ulises Ramírez Heredia — Software Engineer and Full Stack Developer">
+  <rect width="1200" height="260" fill="#0D1B2A"/>
+  <text x="60" y="105" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="52" font-weight="700" fill="#F6F8FA">Ulises Ramírez Heredia</text>
+  <text x="60" y="152" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" fill="#58A6FF">Software Engineer · Full Stack Developer</text>
+  <rect x="60" y="176" width="72" height="4" rx="2" fill="#14B8A6"/>
+  <text x="60" y="222" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" fill="#9AA7B4">Java · Spring Boot · Angular · React · TypeScript · PostgreSQL · JavaScript</text>
+</svg>
