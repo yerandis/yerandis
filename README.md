@@ -109,6 +109,6 @@ Vocational Institute of Exact Sciences “Vladímir Ilich Lenín” (IPCVE) · 2
 
 ---
 
-## Contact
+## Contact 
 
-[LinkedIn](https://www.linkedin.com/in/yerandis-ramirez-2516b72b6/) · [Email](mailto:uyerandisr@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/ulises-yerandis-ramirez-2516b72b6/) · [Email](mailto:uyerandisr@gmail.com)
