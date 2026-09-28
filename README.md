@@ -52,8 +52,6 @@ I'm comfortable working across frontend and backend technologies, adapting to ne
 
 - **[SGE Backend](https://github.com/yerandis/sge-backend)** — Backend REST API for an Employee Management System, built with Spring Boot and PostgreSQL.
 - **[SGE Frontend](https://github.com/yerandis/sge-frontend)** — React and TypeScript single-page application for the SGE Employee Management System.
-- **[Lumen Blog API](https://github.com/yerandis/lumen_blog_api)** — PHP REST API project built with the Lumen framework.
-
 ---
 
 ## Professional Experience
