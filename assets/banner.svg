@@ -3,5 +3,5 @@
   <text x="60" y="105" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="52" font-weight="700" fill="#F6F8FA">Ulises Ramírez Heredia</text>
   <text x="60" y="152" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" fill="#58A6FF">Software Engineer · Full Stack Developer</text>
   <rect x="60" y="176" width="72" height="4" rx="2" fill="#14B8A6"/>
-  <text x="60" y="222" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" fill="#9AA7B4">Java · Spring Boot · Angular · React · TypeScript · PostgreSQL · JavaScript</text>
+  <text x="60" y="222" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" fill="#9AA7B4">Java · Spring Boot · Angular · React · TypeScript · PostgreSQL · JavaScript · Spring Security · Hibernate · JPA · REST APIs · WebSocket</text>
 </svg>
