@@ -52,6 +52,33 @@ I'm comfortable working across frontend and backend technologies, adapting to ne
 
 - **[SGE Backend](https://github.com/yerandis/sge-backend)** — Backend REST API for an Employee Management System, built with Spring Boot and PostgreSQL.
 - **[SGE Frontend](https://github.com/yerandis/sge-frontend)** — React and TypeScript single-page application for the SGE Employee Management System.
+
+- ## SGE — Employee Management System
+
+Full-stack employee management system built with React, TypeScript,
+Spring Boot and PostgreSQL.
+
+### Architecture
+
+<img src="./assets/sge/architecture.png" alt="SGE system architecture" width="800"/>
+
+### Screenshots
+
+#### Login
+
+<img src="./assets/sge/login.png" alt="SGE login screen" width="800"/>
+
+#### Dashboard
+
+<img src="./assets/sge/dashboard.png" alt="SGE dashboard" width="800"/>
+
+#### Employee Management
+
+<img src="./assets/sge/employees.png" alt="SGE employee management screen" width="800"/>
+
+#### Notifications
+
+<img src="./assets/sge/notifications.png" alt="SGE notifications" width="800"/>
 ---
 
 ## Professional Experience
